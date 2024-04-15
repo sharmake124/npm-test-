@@ -1,2 +1,1 @@
-// eslint-disable-next-line react-refresh/only-export-components
-export * from "./components";
+export { default as Button } from "./components/Button";
